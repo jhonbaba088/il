@@ -7,57 +7,7 @@ This file is content some xx link for enjoyment🤪😘
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Reels Accounts</title>
-	<link rel="icon" href="download.jpg">
-	<style>
-		body {
-			background-color: black;
-			color: white;
-			display: flex;
-			align-items: center;
-			justify-content: left;
-			height: 90vb;
-		}
-		
-		ul {
-			list-style-type: none;
-			padding: 20;
-			margin: 0;
-			text-align: left;
-		}
-		
-		li {
-			margin: 5px;
-		}
-		
-		a {
-			color: rgb(41, 245, 75);
-			text-decoration: none;
-		}
-		
-		a.clicked {
-			color: gray;
-			pointer-events: none;
-		}
-		
-		a:hover {
-			text-decoration: underline;
-		}
-		h1 {
-			color: rgb(216, 219, 5);
-		}
-	</style>
-	<script>
-		function markClicked(link) {
-			link.classList.add("clicked");
-			setTimeout(function() {
-				link.classList.remove("clicked");
-			}, 600000); // 2 minutes in milliseconds
-		}
-	</script>
-</head>
-<body>
-	<div>
+
 		<h1>Reels Accounts</h1>
 		<ul>
 			<ol>
