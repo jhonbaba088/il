@@ -1,6 +1,3 @@
-<button class="btn btn-primary">
-  <a href="https://telegram.me/upsssx">Click here</a>
-</button>
 1. https://telegram.me/upsssx
 2. https://telegram.me/joinchat/AAAAAEmQc04nb9kLYXG53g
 3. https://telegram.me/joinchat/AAAAAEBDjaWINoPkiIhsgQ
