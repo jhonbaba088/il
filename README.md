@@ -5,7 +5,7 @@ This file is content some xx link for enjoyment🤪😘
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Reels Accounts</title>
+	
 	<link rel="icon" href="download.jpg">
 </head>
 <body>
